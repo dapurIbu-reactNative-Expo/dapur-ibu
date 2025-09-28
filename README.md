@@ -39,7 +39,7 @@ This repository serves as the **organization root**, providing an overview and d
 ## 🔗 Repositories
 
 * **Backend (API):** [BE-dapurIbu](https://github.com/mmarseal/BE-dapurIbu)
-* **Mobile App:** [mobile-dapurIbu](https://github.com/mmarseal/mobile-dapurIbu)
+* **Mobile App:** [mobile-dapurIbu](https://github.com/dapurIbu-reactNative-Expo/dapurIbu-mobile)
 
 ---
 
