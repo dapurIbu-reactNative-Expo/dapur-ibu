@@ -8,21 +8,7 @@
 This repository serves as the **organization root**, providing an overview and direct links to both projects.
 
 ---
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9b9d0a84-6533-49f1-b7e1-23b9c76bfbf5" alt="Login" width="200"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img src="https://github.com/user-attachments/assets/799ccffc-5e8a-4d2a-abe0-6a31a753f9ee" alt="Signup" width="200"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/user-attachments/assets/4302400a-355a-4f60-942a-6c2561d885e2" alt="Home" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bc2cedc2-7b43-4f06-8ccf-7270e7752a75" alt="Profile" width="200"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img src="https://github.com/user-attachments/assets/adb898c7-8244-464e-87a6-d1a94f9557a1" alt="Profile2" width="200"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img src="https://github.com/user-attachments/assets/e8e73999-3d0e-4863-9b72-702d76713a7b" alt="Home2" width="200"/> 
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0c54e530-dd15-42c9-9bec-df22f26727ea" alt="Create" width="200"/>
-</p>
+<img width="1536" height="1024" alt="Mockup Dapur Ibu" src="https://github.com/user-attachments/assets/ab38fb13-617b-410f-9878-28c7995a3b47" />
 
 ---
 ## 🌐 Live Demos
